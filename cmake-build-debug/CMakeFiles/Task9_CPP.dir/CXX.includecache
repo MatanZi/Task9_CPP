@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Matan Zilka/CLionProjects/CPP_Projects/Task9_CPP/TestCase.cpp
+TestCase.hpp
+C:/Users/Matan Zilka/CLionProjects/CPP_Projects/Task9_CPP/TestCase.hpp
+
+C:/Users/Matan Zilka/CLionProjects/CPP_Projects/Task9_CPP/TestCase.hpp
+string
+C:/Users/Matan Zilka/CLionProjects/CPP_Projects/Task9_CPP/string
+iostream
+C:/Users/Matan Zilka/CLionProjects/CPP_Projects/Task9_CPP/iostream
+ostream
+C:/Users/Matan Zilka/CLionProjects/CPP_Projects/Task9_CPP/ostream
+iostream
+-
+string
+-
+sstream
+-
+
+C:/Users/Matan Zilka/CLionProjects/CPP_Projects/Task9_CPP/main.cpp
+iostream
+-
+sstream
+-
+string
+-
+TestCase.hpp
+C:/Users/Matan Zilka/CLionProjects/CPP_Projects/Task9_CPP/TestCase.hpp
+

@@ -1,0 +1,3 @@
+C:/Users/Matan Zilka/CLionProjects/CPP_Projects/Task9_CPP/cmake-build-debug/CMakeFiles/Task9_CPP.dir
+C:/Users/Matan Zilka/CLionProjects/CPP_Projects/Task9_CPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Matan Zilka/CLionProjects/CPP_Projects/Task9_CPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
